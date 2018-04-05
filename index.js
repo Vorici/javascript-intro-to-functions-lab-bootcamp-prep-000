@@ -22,7 +22,7 @@ function logWhisper(string){
 
 function sayHiToGrandma(string){
   
- var = ""
+ var = "I can't hear you!""
   
 }
 
